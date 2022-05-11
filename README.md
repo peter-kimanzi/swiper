@@ -2,4 +2,5 @@
 create animation effect using swiper js
 
 
-View live project at 
+# View live project 
+https://peter-kimanzi.github.io/swiper/
